@@ -1,4 +1,4 @@
-# keycloak-dockerized-ssl-nginx [EN](README.md) / [RU](README_RU.md)
+# keycloak-docker
 ## Комплексное решение для развертывания Keycloak на VPS с использованием Docker-compose, Nginx, Certbot и SSL.
 ### Основные моменты:
 - Keycloak v.25.0.1
